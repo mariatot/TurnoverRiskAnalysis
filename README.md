@@ -33,6 +33,3 @@ Ce projet vise à prédire les départs des collaborateurs d’une entreprise af
 ## Prochaines étapes
 - Étendre l’analyse à des données sur plusieurs années.  
 - Intégrer d'autres facteurs explicatifs pour enrichir le modèle.  
-
-## Lien GitHub  
-[Voir le repository](http://github.com/mariatot/EmployeeAttritionPrediction)  
